@@ -1,5 +1,5 @@
 ---
-title: 約
+title: About 約
 permalink: "/about/"
 lang: jp
 layout: home
