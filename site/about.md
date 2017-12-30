@@ -1,8 +1,8 @@
 ---
-layout: home
 title: About
+permalink: "/about/"
+layout: home
 lang: en
-permalink: /about/
 ---
 
 This is an about page

@@ -1,8 +1,8 @@
 ---
-layout: home
 title: About
+permalink: "/about/"
+layout: home
 lang: jp
-permalink: /about/
 ---
 
 これは約ページです
