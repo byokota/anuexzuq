@@ -1,8 +1,8 @@
 ---
-title: About
+title: 約
 permalink: "/about/"
-layout: home
 lang: jp
+layout: home
 ---
 
 これは約ページです
