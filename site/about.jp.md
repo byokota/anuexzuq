@@ -1,8 +1,8 @@
 ---
 layout: home
 title: About
-lang: en
+lang: jp
 permalink: /about/
 ---
 
-This is an about page
+これは約ページです
