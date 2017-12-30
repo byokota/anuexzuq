@@ -1,7 +1,8 @@
 ---
+title: Home
 permalink: "/"
-layout: home
 lang: en
+layout: home
 ---
 
 Hello my name is Yokota
