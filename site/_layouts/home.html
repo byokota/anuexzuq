@@ -1,7 +1,8 @@
 <html>
   <head></head>
   <body>
-    <a href="{{ site.url }}/">home</a> | <a href="{{ site.url }}/about/">about</a>
+    <a href="{{ site.url }}/">home</a> • <a href="{{ site.url }}/about/">about</a> |
+    <a href=" {{ site.url }}">en</a> • <a href=" {{ site.url }}/jp/">jp</a>
 
     <h1>Testing polyglot</h1>
 
@@ -12,5 +13,7 @@
     <p><i>{{ page.home }}</i></p>
 
     <p>...so dead simple for a little website... why complicate your life? Arigatō!</p>
+
+    <p>{{ page.en-only }}</p>
   </body>
 </html>
