@@ -1,6 +1,6 @@
 # zero-anuexzuq
 
-The goal was to find a simple i18n solution that also makes for a good [Siteleaf](http://siteleaf.com) copy writer experience.
+The goal was to find a simple i18n solution that also makes for a good Shopify copy writer experience.
 
 ## Polyglot rocks
 
