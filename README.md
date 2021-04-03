@@ -1,4 +1,4 @@
-# zero-anuexzuq
+# sample-shopify-polyglot
 
 The goal was to find a simple i18n solution that also makes for a good Shopify copy writer experience.
 
